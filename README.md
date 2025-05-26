@@ -42,6 +42,8 @@ Each problem will include:
 - Scalability & trade-offs
 - Bottlenecks and how to resolve them
 
+
+[𝐆𝐨𝐥𝐝𝐞𝐧 𝐑𝐮𝐥𝐞𝐬 𝐭𝐨 𝐚𝐧𝐬𝐰𝐞𝐫 𝐢𝐧 𝐚 𝐒𝐲𝐬𝐭𝐞𝐦 𝐃𝐞𝐬𝐢𝐠𝐧 𝐈𝐧𝐭𝐞𝐫𝐯𝐢𝐞𝐰](https://www.linkedin.com/pulse/dinesh-varyani/)
 #### Examples:
 - ✅ Design URL Shortener (Bitly)
 - 🔄 Design Instagram
